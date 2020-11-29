@@ -37,7 +37,7 @@ public class MainActivity extends Activity {
                 //Log.e("Url",videoUrl);
                 EditText editText;
                 editText = findViewById(R.id.editTextTextPersonName2);
-                String data = editText.getText().toString().trim();
+                String data = editText.getText().toString();
                 if(!data.isEmpty()){
                     videoUrl = data;
                 }
