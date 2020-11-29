@@ -1,0 +1,1 @@
+rtsp://freja.hiof.no:1935/rtplive/_definst_/hessdalen02.stream
